@@ -10,3 +10,4 @@ const AboutPage = () => {
 };
 
 export default AboutPage;
+// this is about pagr
